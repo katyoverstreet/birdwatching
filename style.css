@@ -61,6 +61,7 @@ body > * {
   background-color: red;
   padding: 1%;
 }
+/* what does this ^ above do?*/
 
 main, header, nav, article, aside, footer, section {
   background-color: rgba(0,255,0,0.5);
